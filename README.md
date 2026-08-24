@@ -1,5 +1,5 @@
 # 📊 Opeyemi | Sales Performance Dashboard
-sales-performance-dashboard.png.png
+![Sales Performance Dashboard](sales-performance-dashboard.png)
 
 ## 📌 Project Overview
 
